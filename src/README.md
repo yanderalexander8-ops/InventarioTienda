@@ -33,3 +33,8 @@ Proyecto en Java para gestionar inventario usando Programación Orientada a Obje
 - Integración con Inventario y Producto
 
 - Pruebas básicas del sistema
+
+# Día 4
+- Revisión final del código
+- Corrección de errores
+- Preparación para entrega
