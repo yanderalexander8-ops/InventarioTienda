@@ -23,3 +23,13 @@ Proyecto en Java para gestionar inventario usando Programación Orientada a Obje
 - Implementación de la clase Inventario
 - Uso de ArrayList
 - Validaciones de productos
+
+# Dia 3
+
+- Implementación del menú principal
+
+- Creación de la clase Main
+
+- Integración con Inventario y Producto
+
+- Pruebas básicas del sistema
